@@ -1,0 +1,150 @@
+D:\Google Drive\Github.com\work\NichiconSystem\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.csprojResolveAssemblyReference.cache
+D:\Google Drive\Github.com\work\NichiconSystem\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.FormLogin.resources
+D:\Google Drive\Github.com\work\NichiconSystem\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.FormModel.resources
+D:\Google Drive\Github.com\work\NichiconSystem\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.Properties.Resources.resources
+D:\Google Drive\Github.com\work\NichiconSystem\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.csproj.GenerateResource.cache
+D:\Google Drive\Github.com\work\NichiconSystem\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.csproj.CoreCompileInputs.cache
+D:\Google Drive\Github.com\work\NichiconSystem\FujiXeroxShippingSystem\bin\Debug\FujiXeroxShippingSystem.exe
+D:\Google Drive\Github.com\work\NichiconSystem\FujiXeroxShippingSystem\bin\Debug\FujiXeroxShippingSystem.pdb
+D:\Google Drive\Github.com\work\NichiconSystem\FujiXeroxShippingSystem\bin\Debug\UMC.OQC.dll
+D:\Google Drive\Github.com\work\NichiconSystem\FujiXeroxShippingSystem\bin\Debug\UMC.PVS.dll
+D:\Google Drive\Github.com\work\NichiconSystem\FujiXeroxShippingSystem\bin\Debug\UMC.DB.dll
+D:\Google Drive\Github.com\work\NichiconSystem\FujiXeroxShippingSystem\bin\Debug\UMC.OQC.pdb
+D:\Google Drive\Github.com\work\NichiconSystem\FujiXeroxShippingSystem\bin\Debug\UMC.PVS.pdb
+D:\Google Drive\Github.com\work\NichiconSystem\FujiXeroxShippingSystem\bin\Debug\UMC.DB.pdb
+D:\Google Drive\Github.com\work\NichiconSystem\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.FormMain.resources
+D:\Google Drive\Github.com\work\NichiconSystem\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.csproj.CopyComplete
+D:\Google Drive\Github.com\work\NichiconSystem\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.exe
+D:\Google Drive\Github.com\work\NichiconSystem\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.pdb
+D:\Google Drive\Github.com\work\NichiconSystem\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.FormAddPO.resources
+D:\Google Drive\Github.com\work\NichiconSystem\FujiXeroxShippingSystem\bin\Debug\FujiXeroxShippingSystem.exe.manifest
+D:\Google Drive\Github.com\work\NichiconSystem\FujiXeroxShippingSystem\bin\Debug\FujiXeroxShippingSystem.application
+D:\Google Drive\Github.com\work\NichiconSystem\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.exe.manifest
+D:\Google Drive\Github.com\work\NichiconSystem\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.application
+E:\DEV\Works UMC\NichiconSystem\FujiXeroxShippingSystem\bin\Debug\FujiXeroxShippingSystem.exe.manifest
+E:\DEV\Works UMC\NichiconSystem\FujiXeroxShippingSystem\bin\Debug\FujiXeroxShippingSystem.application
+E:\DEV\Works UMC\NichiconSystem\FujiXeroxShippingSystem\bin\Debug\FujiXeroxShippingSystem.exe
+E:\DEV\Works UMC\NichiconSystem\FujiXeroxShippingSystem\bin\Debug\FujiXeroxShippingSystem.pdb
+E:\DEV\Works UMC\NichiconSystem\FujiXeroxShippingSystem\bin\Debug\UMC.OQC.dll
+E:\DEV\Works UMC\NichiconSystem\FujiXeroxShippingSystem\bin\Debug\UMC.PVS.dll
+E:\DEV\Works UMC\NichiconSystem\FujiXeroxShippingSystem\bin\Debug\UMC.DB.dll
+E:\DEV\Works UMC\NichiconSystem\FujiXeroxShippingSystem\bin\Debug\UMC.OQC.pdb
+E:\DEV\Works UMC\NichiconSystem\FujiXeroxShippingSystem\bin\Debug\UMC.PVS.pdb
+E:\DEV\Works UMC\NichiconSystem\FujiXeroxShippingSystem\bin\Debug\UMC.DB.pdb
+E:\DEV\Works UMC\NichiconSystem\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.csprojAssemblyReference.cache
+E:\DEV\Works UMC\NichiconSystem\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.FormAddPO.resources
+E:\DEV\Works UMC\NichiconSystem\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.FormLogin.resources
+E:\DEV\Works UMC\NichiconSystem\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.FormMain.resources
+E:\DEV\Works UMC\NichiconSystem\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.FormModel.resources
+E:\DEV\Works UMC\NichiconSystem\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.Properties.Resources.resources
+E:\DEV\Works UMC\NichiconSystem\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.csproj.GenerateResource.cache
+E:\DEV\Works UMC\NichiconSystem\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.csproj.CoreCompileInputs.cache
+E:\DEV\Works UMC\NichiconSystem\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.exe.manifest
+E:\DEV\Works UMC\NichiconSystem\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.application
+E:\DEV\Works UMC\NichiconSystem\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.csproj.CopyComplete
+E:\DEV\Works UMC\NichiconSystem\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.exe
+E:\DEV\Works UMC\NichiconSystem\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.pdb
+E:\DEV\Works UMC\UMC Projects\FujiXeroxShippingSystem\bin\Debug\FujiXeroxShippingSystem.exe.manifest
+E:\DEV\Works UMC\UMC Projects\FujiXeroxShippingSystem\bin\Debug\FujiXeroxShippingSystem.application
+E:\DEV\Works UMC\UMC Projects\FujiXeroxShippingSystem\bin\Debug\FujiXeroxShippingSystem.exe
+E:\DEV\Works UMC\UMC Projects\FujiXeroxShippingSystem\bin\Debug\FujiXeroxShippingSystem.pdb
+E:\DEV\Works UMC\UMC Projects\FujiXeroxShippingSystem\bin\Debug\UMC.OQC.dll
+E:\DEV\Works UMC\UMC Projects\FujiXeroxShippingSystem\bin\Debug\UMC.PVS.dll
+E:\DEV\Works UMC\UMC Projects\FujiXeroxShippingSystem\bin\Debug\UMC.DB.dll
+E:\DEV\Works UMC\UMC Projects\FujiXeroxShippingSystem\bin\Debug\UMC.OQC.pdb
+E:\DEV\Works UMC\UMC Projects\FujiXeroxShippingSystem\bin\Debug\UMC.PVS.pdb
+E:\DEV\Works UMC\UMC Projects\FujiXeroxShippingSystem\bin\Debug\UMC.DB.pdb
+E:\DEV\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.csprojAssemblyReference.cache
+E:\DEV\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.FormAddPO.resources
+E:\DEV\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.FormLogin.resources
+E:\DEV\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.FormMain.resources
+E:\DEV\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.FormModel.resources
+E:\DEV\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.Properties.Resources.resources
+E:\DEV\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.csproj.GenerateResource.cache
+E:\DEV\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.csproj.CoreCompileInputs.cache
+E:\DEV\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.exe.manifest
+E:\DEV\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.application
+E:\DEV\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.csproj.CopyComplete
+E:\DEV\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.exe
+E:\DEV\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.pdb
+D:\3. Projects\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.csprojAssemblyReference.cache
+D:\3. Projects\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.FormAddPO.resources
+D:\3. Projects\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.FormLogin.resources
+D:\3. Projects\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.FormMain.resources
+D:\3. Projects\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.FormModel.resources
+D:\3. Projects\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.Properties.Resources.resources
+D:\3. Projects\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.csproj.GenerateResource.cache
+D:\3. Projects\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.csproj.CoreCompileInputs.cache
+D:\3. Projects\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.exe
+D:\3. Projects\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.pdb
+D:\3. Projects\Works UMC\UMC Projects\FujiXeroxShippingSystem\bin\Debug\FujiXeroxShippingSystem.exe.config
+D:\3. Projects\Works UMC\UMC Projects\FujiXeroxShippingSystem\bin\Debug\FujiXeroxShippingSystem.exe.manifest
+D:\3. Projects\Works UMC\UMC Projects\FujiXeroxShippingSystem\bin\Debug\FujiXeroxShippingSystem.application
+D:\3. Projects\Works UMC\UMC Projects\FujiXeroxShippingSystem\bin\Debug\FujiXeroxShippingSystem.exe
+D:\3. Projects\Works UMC\UMC Projects\FujiXeroxShippingSystem\bin\Debug\FujiXeroxShippingSystem.pdb
+D:\3. Projects\Works UMC\UMC Projects\FujiXeroxShippingSystem\bin\Debug\UMC.DB.dll
+D:\3. Projects\Works UMC\UMC Projects\FujiXeroxShippingSystem\bin\Debug\UMC.OQC.dll
+D:\3. Projects\Works UMC\UMC Projects\FujiXeroxShippingSystem\bin\Debug\UMC.PVS.dll
+D:\3. Projects\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.exe.manifest
+D:\3. Projects\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.application
+D:\3. Projects\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.csproj.CopyComplete
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\FujiXeroxShippingSystem\bin\Debug\FujiXeroxShippingSystem.exe.config
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\FujiXeroxShippingSystem\bin\Debug\FujiXeroxShippingSystem.exe.manifest
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\FujiXeroxShippingSystem\bin\Debug\FujiXeroxShippingSystem.application
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\FujiXeroxShippingSystem\bin\Debug\FujiXeroxShippingSystem.exe
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\FujiXeroxShippingSystem\bin\Debug\FujiXeroxShippingSystem.pdb
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\FujiXeroxShippingSystem\bin\Debug\UMC.OQC.dll
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\FujiXeroxShippingSystem\bin\Debug\UMC.DB.dll
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.csprojAssemblyReference.cache
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.FormAddPO.resources
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.FormLogin.resources
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.FormMain.resources
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.FormModel.resources
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.Properties.Resources.resources
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.csproj.GenerateResource.cache
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.csproj.CoreCompileInputs.cache
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.exe.manifest
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.application
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.csproj.CopyComplete
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.exe
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.pdb
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\FujiXeroxShippingSystem\bin\Debug\FujiXeroxShippingSystem.exe.config
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\FujiXeroxShippingSystem\bin\Debug\FujiXeroxShippingSystem.exe.manifest
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\FujiXeroxShippingSystem\bin\Debug\FujiXeroxShippingSystem.application
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\FujiXeroxShippingSystem\bin\Debug\FujiXeroxShippingSystem.exe
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\FujiXeroxShippingSystem\bin\Debug\FujiXeroxShippingSystem.pdb
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\FujiXeroxShippingSystem\bin\Debug\UMC.OQC.dll
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\FujiXeroxShippingSystem\bin\Debug\UMC.DB.dll
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.csproj.AssemblyReference.cache
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.FormAddPO.resources
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.FormLogin.resources
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.FormMain.resources
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.FormModel.resources
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.Properties.Resources.resources
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.csproj.GenerateResource.cache
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.csproj.CoreCompileInputs.cache
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.exe.manifest
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.application
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\FujiXeroxShippingSystem\obj\Debug\FujiXero.5FBB0C2C.Up2Date
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.exe
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.pdb
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\10.FujiXeroxShippingSystem\bin\Debug\FujiXeroxShippingSystem.exe.config
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\10.FujiXeroxShippingSystem\bin\Debug\FujiXeroxShippingSystem.exe.manifest
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\10.FujiXeroxShippingSystem\bin\Debug\FujiXeroxShippingSystem.application
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\10.FujiXeroxShippingSystem\bin\Debug\FujiXeroxShippingSystem.exe
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\10.FujiXeroxShippingSystem\bin\Debug\FujiXeroxShippingSystem.pdb
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\10.FujiXeroxShippingSystem\bin\Debug\UMC.OQC.dll
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\10.FujiXeroxShippingSystem\bin\Debug\UMC.DB.dll
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\10.FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.csproj.AssemblyReference.cache
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\10.FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.FormAddPO.resources
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\10.FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.FormLogin.resources
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\10.FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.FormMain.resources
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\10.FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.FormModel.resources
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\10.FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.Properties.Resources.resources
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\10.FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.csproj.GenerateResource.cache
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\10.FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.csproj.CoreCompileInputs.cache
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\10.FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.exe.manifest
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\10.FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.application
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\10.FujiXeroxShippingSystem\obj\Debug\FujiXero.5FBB0C2C.Up2Date
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\10.FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.exe
+C:\Users\u42107\Desktop\ThanhDX\Thanh_Project\10.FujiXeroxShippingSystem\obj\Debug\FujiXeroxShippingSystem.pdb
